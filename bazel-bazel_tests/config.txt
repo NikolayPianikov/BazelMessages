@@ -1,0 +1,5 @@
+C:\Program Files\bazel\bazel.exe
+test
+--flaky_test_attempts=6
+--
+:tests
